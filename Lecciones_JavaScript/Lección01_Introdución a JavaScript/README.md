@@ -1,5 +1,5 @@
 
-<span style="font-family:Papyrus; font-size:4em;">ENAMORADO!</span>
+<span style="font-family:Papyrus; font-size:4em; color: #FACC15;">ENAMORADO!</span>
 <h1 style="color: #ffffff; font-size: 100px;"> Aprende</h1>
 <h1 style="color: #ffffff; font-size: 100px;">JavaScript</h1> 
 <h3 style="font-size: 30px; color:#ffffff; margin-left: 25px"> by breativo</h3> 
