@@ -1,8 +1,6 @@
 ![texto_alternativo](/img/titulo.png)
 
-# ${This\ is\ a\ {\color{red}Big}}\ Title$
-# ¿Qué es JavaScript?
-
+# ${{\color{f0db4f}¿Qué\ es\ JavaScript?}}$
 
 ## Introducción al lenguaje de programación JavaScript.
 
@@ -32,7 +30,7 @@ JavaScript desempeña un papel fundamental en el desarrollo web moderno debido a
 
 - **Desarrollo de Aplicaciones Web Complejas:** Gracias a la evolución de los frameworks y bibliotecas de JavaScript, como React, Angular y Vue.js, JavaScript se ha convertido en una opción poderosa para el desarrollo de aplicaciones web complejas. Estos frameworks facilitan la creación de interfaces de usuario sofisticadas y el manejo eficiente del estado de la aplicación, lo que permite construir aplicaciones web altamente funcionales y escalables.
 
-# Historia de JavaScript
+# ${{\color{f0db4f}Historia\ de\ JavaScript}}$
 
 La historia de JavaScript es una narrativa fascinante que comienza en los albores de la web moderna y se extiende hasta convertirse en uno de los lenguajes de programación más influyentes y utilizados en el mundo del desarrollo web.
 
@@ -58,7 +56,8 @@ A lo largo de los años, JavaScript ha experimentado un crecimiento exponencial 
 Hoy en día, JavaScript es omnipresente en el desarrollo web y se utiliza en todos los aspectos de la creación de sitios y aplicaciones web, desde la interactividad del frontend hasta la lógica del backend. Su capacidad para ejecutarse en todos los principales navegadores web sin necesidad de plugins adicionales lo convierte en una herramienta esencial para los desarrolladores web en todo el mundo.
 <br>
 
-# ¿Por qué Aprender JavaScript?
+# ${{\color{f0db4f}¿Por\ que\ aprender\ JavaScript?}}$
+
 Aprender JavaScript abre un mundo de oportunidades en el desarrollo web y más allá debido a una serie de razones clave.
 
 Aquí hay algunas discusiones sobre por qué aprender JavaScript puede ser beneficioso:
@@ -83,7 +82,7 @@ JavaScript permite a los desarrolladores crear experiencias web únicas e innova
 Además del desarrollo web, el conocimiento de JavaScript puede abrirte puertas en otros campos relacionados con la tecnología, como el desarrollo de aplicaciones móviles híbridas, el desarrollo de juegos web, el desarrollo de aplicaciones de escritorio utilizando tecnologías como Electron, y más. La versatilidad de JavaScript te brinda la oportunidad de explorar una variedad de caminos profesionales y diversificar tus habilidades.
 <br>
 
-## Codigo JavaScript.
+## Hola mundo en JavaScript.
 
 ```python
 def hola_mundo():
@@ -98,7 +97,7 @@ Hola mundo
 ```
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> 👍Lección superada enhorabuena!! 
 
 [Siguiente lección](URL_del_enlace)
 
