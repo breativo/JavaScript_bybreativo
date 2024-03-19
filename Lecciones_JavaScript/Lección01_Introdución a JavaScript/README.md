@@ -1,5 +1,13 @@
 ![texto_alternativo](/img/titulo.png)
 
+<style>
+    .red-text {
+        color: red;
+    }
+</style>
+
+<span class="red-text">Este es un texto en rojo</span>
+
 # ¿Qué es JavaScript?
 
 
@@ -95,6 +103,10 @@ Respuesta consola:
 
 Hola mundo
 ```
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 [Siguiente lección](URL_del_enlace)
 
 # Encuéntrame
