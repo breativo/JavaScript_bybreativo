@@ -1,6 +1,6 @@
 ![texto_alternativo](/img/titulo.png)
 
-<span style="font-size:50px; color: #ffffff">Este es un texto grande</span>
+<span style="font-size:50em; color: #ffffff">Este es un texto grande</span>
 
 # Aprende
 
