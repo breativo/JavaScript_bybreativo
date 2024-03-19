@@ -1,5 +1,9 @@
 ![texto_alternativo](/img/titulo.png)
 
+<span style="font-size:50px; color: #ffffff">Este es un texto grande</span>
+
+# Aprende
+
 # ${{\color{#f0db4f}¿Qué\ es\ JavaScript?}}$
 
 ## Introducción al lenguaje de programación JavaScript.
