@@ -84,14 +84,20 @@ Además del desarrollo web, el conocimiento de JavaScript puede abrirte puertas 
 
 ### Hola mundo en JavaScript.
 
-```python
-def hola_mundo():
-print("¡Hola mundo!")
+```JavaScript
+// Muestra mensaje
+console.log("¡Hola Mundo!");
 
-hola_mundo()
+// Definir la función que muestra el mensaje
+function holaMundo() {
+    console.log("¡Hola Mundo!");
+}
+
+// Llamar a la función para que se ejecute y muestre el mensaje
+holaMundo();
 ```
-```
-Respuesta consola:
+```JavaScript 
+// Respuesta 
 
 Hola mundo
 ```
