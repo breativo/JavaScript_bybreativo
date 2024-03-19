@@ -1,4 +1,4 @@
-![texto_alternativo](/img/titulo.png)
+![JavaScript by breativo](/img/titulo.png)
 
 ## ${{\color{#f0db4f}¿Qué\ es\ JavaScript?}}$
 
