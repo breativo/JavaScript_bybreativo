@@ -1,13 +1,6 @@
 ![texto_alternativo](/img/titulo.png)
 
-<style>
-    .red-text {
-        color: red;
-    }
-</style>
-
-<span class="red-text">Este es un texto en rojo</span>
-
+# ${This\ is\ a\ {\color{red}Big}}\ Title$
 # ¿Qué es JavaScript?
 
 
