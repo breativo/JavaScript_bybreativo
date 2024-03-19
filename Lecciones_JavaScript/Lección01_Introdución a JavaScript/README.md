@@ -1,6 +1,6 @@
 ![texto_alternativo](/img/titulo.png)
 
-# ${{\color{f0db4f}¿Qué\ es\ JavaScript?}}$
+# ${{\color{#f0db4f}¿Qué\ es\ JavaScript?}}$
 
 ## Introducción al lenguaje de programación JavaScript.
 
@@ -30,7 +30,7 @@ JavaScript desempeña un papel fundamental en el desarrollo web moderno debido a
 
 - **Desarrollo de Aplicaciones Web Complejas:** Gracias a la evolución de los frameworks y bibliotecas de JavaScript, como React, Angular y Vue.js, JavaScript se ha convertido en una opción poderosa para el desarrollo de aplicaciones web complejas. Estos frameworks facilitan la creación de interfaces de usuario sofisticadas y el manejo eficiente del estado de la aplicación, lo que permite construir aplicaciones web altamente funcionales y escalables.
 
-# ${{\color{f0db4f}Historia\ de\ JavaScript}}$
+# ${{\color{#f0db4f}Historia\ de\ JavaScript}}$
 
 La historia de JavaScript es una narrativa fascinante que comienza en los albores de la web moderna y se extiende hasta convertirse en uno de los lenguajes de programación más influyentes y utilizados en el mundo del desarrollo web.
 
@@ -56,7 +56,7 @@ A lo largo de los años, JavaScript ha experimentado un crecimiento exponencial 
 Hoy en día, JavaScript es omnipresente en el desarrollo web y se utiliza en todos los aspectos de la creación de sitios y aplicaciones web, desde la interactividad del frontend hasta la lógica del backend. Su capacidad para ejecutarse en todos los principales navegadores web sin necesidad de plugins adicionales lo convierte en una herramienta esencial para los desarrolladores web en todo el mundo.
 <br>
 
-# ${{\color{f0db4f}¿Por\ que\ aprender\ JavaScript?}}$
+# ${{\color{#f0db4f}¿Por\ que\ aprender\ JavaScript?}}$
 
 Aprender JavaScript abre un mundo de oportunidades en el desarrollo web y más allá debido a una serie de razones clave.
 
