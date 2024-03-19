@@ -82,7 +82,7 @@ JavaScript permite a los desarrolladores crear experiencias web únicas e innova
 Además del desarrollo web, el conocimiento de JavaScript puede abrirte puertas en otros campos relacionados con la tecnología, como el desarrollo de aplicaciones móviles híbridas, el desarrollo de juegos web, el desarrollo de aplicaciones de escritorio utilizando tecnologías como Electron, y más. La versatilidad de JavaScript te brinda la oportunidad de explorar una variedad de caminos profesionales y diversificar tus habilidades.
 <br>
 
-### Hola mundo en JavaScript.
+## ${{\color{#ffcc66}Hola\ mundo\ en\ JavaScript}}$
 
 ```JavaScript
 // Muestra mensaje
