@@ -97,11 +97,15 @@ Hola mundo
 ```
 
 🎉 ¡Felicidades! Has completado esta lección con éxito. ${{\color{#ffcc66} ¡Gran\ trabajo!}}$
+<br>
+<br>
 
 > [!NOTE] 
 >JavaScript by breativo está en constante evolución. Pronto se añadirán más lecciones y ejercicios prácticos para mejorar aún más tu experiencia de aprendizaje. Mantente atento a las actualizaciones y sigue mejorando tus habilidades.
 
-[${{\color{#ffcc66} Siguiente\ Lección}}$](URL_del_enlace)
+[Siguiente lección](URL_del_enlace)
+<br>
+<br>
 
 # Encuéntrame
 
