@@ -2,7 +2,7 @@
 
 ## ${{\color{#ffcc66}¿Qué\ es\ JavaScript?}}$
 
-### Introducción al lenguaje de programación JavaScript.
+### ${{\color{#ffcc66}Introducción\ al\ lenguaje\ JavaScript}}$
 
 JavaScript es un lenguaje de programación ampliamente utilizado en el desarrollo web que se utiliza principalmente para agregar interactividad a las páginas web. Es un lenguaje de scripting interpretado, lo que significa que el código JavaScript se ejecuta en el navegador del usuario, lo que permite crear experiencias interactivas y dinámicas en la interfaz de usuario.
 <br>
@@ -16,7 +16,8 @@ JavaScript se utiliza para una variedad de propósitos en el desarrollo web, inc
 Una de las principales ventajas de JavaScript es su capacidad para ejecutarse en todos los principales navegadores web sin necesidad de plugins adicionales, lo que lo convierte en una opción poderosa y versátil para el desarrollo web moderno.
 <br>
 
-### Importancia en el desarrollo web moderno.
+### ${{\color{#ffcc66}Importancia\ en\ el\ desarrollo\ web\ moderno}}$
+
 JavaScript desempeña un papel fundamental en el desarrollo web moderno debido a su capacidad para mejorar la interactividad, la usabilidad y la funcionalidad de las páginas web. Aquí hay algunas razones clave que explican su importancia:
 <br>
 
