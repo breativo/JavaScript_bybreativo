@@ -36,23 +36,28 @@ La historia de JavaScript es una narrativa fascinante que comienza en los albore
 
 Aquí tienes un breve vistazo a su evolución:
 
-### Humildes Comienzos:
+### ${{\color{#ffcc66}Humildes\  Comienzos:}}$
+
 JavaScript fue concebido por Brendan Eich, un ingeniero de software que trabajaba en Netscape Communications Corporation, a principios de la década de 1990. En 1995, en un esfuerzo por dotar al entonces navegador líder, Netscape Navigator, de capacidades interactivas, Eich desarrolló un lenguaje de programación de scripting para la web que originalmente se llamó "Mocha" y luego se rebautizó como "LiveScript".
 <br>
 
-### Renombramiento a JavaScript:
+### ${{\color{#ffcc66}Renombramiento\ a\ JavaScript:}}$
+
 Para capitalizar el éxito del lenguaje de programación Java, que estaba en auge en ese momento, Netscape renombró el lenguaje como "JavaScript". A pesar del nombre similar, JavaScript y Java son lenguajes completamente diferentes con diferentes propósitos y características. El renombramiento se llevó a cabo como parte de una estrategia de marketing conjunta con Sun Microsystems, el creador de Java.
 <br>
 
-### Estándar ECMAScript:
+### ${{\color{#ffcc66}Estándar\ ECMAScript:}}$
+
 En 1997, Netscape entregó JavaScript a la European Computer Manufacturers Association (ECMA) para estandarización. Esto condujo a la creación del estándar ECMAScript, que definió la especificación del lenguaje y permitió su implementación consistente en diferentes navegadores. ECMAScript 3, lanzado en 1999, fue la primera versión ampliamente adoptada y estableció la base para el desarrollo futuro del lenguaje.
 <br>
 
-### Expansión y Evolución:
+### ${{\color{#ffcc66}Expansión\ y\ Evolución:}}$
+
 A lo largo de los años, JavaScript ha experimentado un crecimiento exponencial en popularidad y utilidad. Con la introducción de nuevas características y mejoras en las especificaciones de ECMAScript, como ECMAScript 5 (2009), ECMAScript 6 (2015) y las versiones posteriores, JavaScript ha ampliado su alcance y su capacidad, convirtiéndose en un lenguaje versátil y poderoso para el desarrollo web.
 <br>
 
-### Dominio en el Desarrollo Web:
+### ${{\color{#ffcc66}Dominio\ en\ el\ Desarrollo\ Web:}}$
+
 Hoy en día, JavaScript es omnipresente en el desarrollo web y se utiliza en todos los aspectos de la creación de sitios y aplicaciones web, desde la interactividad del frontend hasta la lógica del backend. Su capacidad para ejecutarse en todos los principales navegadores web sin necesidad de plugins adicionales lo convierte en una herramienta esencial para los desarrolladores web en todo el mundo.
 <br>
 
@@ -62,23 +67,27 @@ Aprender JavaScript abre un mundo de oportunidades en el desarrollo web y más a
 
 Aquí hay algunas discusiones sobre por qué aprender JavaScript puede ser beneficioso:
 
-### Demanda en el Mercado Laboral:
+### ${{\color{#ffcc66}Demanda\ en\ el\ Mercado\ Laboral:}}$
 JavaScript es uno de los lenguajes de programación más demandados en la industria tecnológica. Los empleadores buscan activamente desarrolladores con habilidades en JavaScript para una variedad de roles, desde desarrolladores frontend y backend hasta ingenieros de software y arquitectos de aplicaciones web. Aprender JavaScript puede aumentar significativamente tus oportunidades de empleo y avanzar en tu carrera profesional en el campo del desarrollo web.
 <br>
 
-### Versatilidad y Ubicuidad:
+### ${{\color{#ffcc66}Versatilidad\ y\ Ubicuidad:}}$
+
 JavaScript es un lenguaje versátil que se utiliza en todas las áreas del desarrollo web, desde la creación de aplicaciones web interactivas hasta el desarrollo de servidores y APIs. Además, JavaScript es ejecutado por todos los principales navegadores web, lo que garantiza su compatibilidad y ubiquidad en la web. Aprender JavaScript te permite trabajar en una amplia variedad de proyectos y plataformas, lo que te brinda flexibilidad y oportunidades para explorar diferentes áreas de desarrollo.
 <br>
 
-### Ecosistema Vibrante y en Constante Evolución:
+### ${{\color{#ffcc66}Ecositema\ Vibrante\ y\ en\ Constantes\ Evolución:}}$
+
 JavaScript cuenta con un ecosistema rico y vibrante de bibliotecas, frameworks y herramientas que simplifican y aceleran el desarrollo web. Frameworks como React, Angular y Vue.js facilitan la creación de interfaces de usuario sofisticadas y la gestión eficiente del estado de la aplicación. Además, JavaScript está en constante evolución con la introducción de nuevas características y mejoras en las especificaciones de ECMAScript, lo que garantiza su relevancia y utilidad continua en el desarrollo web moderno.
 <br>
 
-### Potencial de Innovación y Creatividad:
+### ${{\color{#ffcc66}Potencial\ de\ Innovación\ y\ Creatividad}}$
+
 JavaScript permite a los desarrolladores crear experiencias web únicas e innovadoras mediante la incorporación de interactividad, animaciones y efectos visuales en las páginas web. Aprender JavaScript te brinda la capacidad de expresar tu creatividad y desarrollar proyectos web emocionantes y dinámicos que cautivan a los usuarios y destacan en la web.
 <br>
 
-### Oportunidades Más Allá del Desarrollo Web:
+### ${{\color{#ffcc66}Oportunidades\ Más\ Allá\ del\ Desarrollo\ web}}$
+
 Además del desarrollo web, el conocimiento de JavaScript puede abrirte puertas en otros campos relacionados con la tecnología, como el desarrollo de aplicaciones móviles híbridas, el desarrollo de juegos web, el desarrollo de aplicaciones de escritorio utilizando tecnologías como Electron, y más. La versatilidad de JavaScript te brinda la oportunidad de explorar una variedad de caminos profesionales y diversificar tus habilidades.
 <br>
 
