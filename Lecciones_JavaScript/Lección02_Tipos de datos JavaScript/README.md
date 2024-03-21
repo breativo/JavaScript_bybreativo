@@ -8,7 +8,7 @@ ${{\color{#ffcc66}Declaración\ de\ variables.}}$ La declaración de una variabl
 <br>
 
 - ${{\color{#ffcc66}var:}}$ Es la forma más antigua de declarar variables en JavaScript. Las variables declaradas con var tienen un alcance de función o un alcance global si se declaran fuera de una función. Estas variables pueden ser redeclaradas y reasignadas. Sin embargo, tienen un comportamiento de "elevación" (hoisting), lo que significa que pueden ser utilizadas antes de ser declaradas en el código.
-- ${{\color{#ffcc66}let:}}$Introducida en ECMAScript 6 (ES6), let permite declarar variables con un alcance de bloque, lo que significa que solo son visibles dentro del bloque donde se declaran (por ejemplo, dentro de una función, un bucle o un bloque if). Las variables let no pueden ser redeclaradas en el mismo ámbito, pero sí pueden ser reasignadas.
+- ${{\color{#ffcc66}let:}}$ Introducida en ECMAScript 6 (ES6), let permite declarar variables con un alcance de bloque, lo que significa que solo son visibles dentro del bloque donde se declaran (por ejemplo, dentro de una función, un bucle o un bloque if). Las variables let no pueden ser redeclaradas en el mismo ámbito, pero sí pueden ser reasignadas.
 - ${{\color{#ffcc66}const:}}$ También introducida en ES6, const se utiliza para declarar variables cuyo valor no cambiará después de la inicialización. Las variables const deben inicializarse al momento de la declaración y no pueden ser reasignadas ni redeclaradas en el mismo ámbito. Sin embargo, los objetos y matrices declarados con const pueden tener sus propiedades o elementos modificados.
 
 ```JavaScript
@@ -119,7 +119,6 @@ let person={
     isJavaScript : true
 };
 
-
 // Array
 let skill=[`Java`, `JavaScript`, `Python`];
 
@@ -141,6 +140,22 @@ let currentDate = new Date();
 Estos son algunos ejemplos de tipos de datos no primitivos en JavaScript. Son considerados no primitivos porque representan estructuras de datos más complejas que los tipos de datos primitivos.
 <br>
 
+En JavaScript, el operador typeof es utilizado para obtener una cadena de texto que indica el tipo de la variable o expresión evaluada. Es bastante útil para comprobar el tipo de dato de una variable en tiempo de ejecución. 
+
+```JavaScript
+console.log(typeof "Hola, mundo"); // "string"
+console.log(typeof 5); // "number"
+console.log(typeof true); // "boolean"
+console.log(typeof undefined); // "undefined"
+console.log(typeof null); // "object" (esto es considerado un error histórico en JavaScript)
+console.log(typeof {}); // "object"
+console.log(typeof []); // "object" (los arreglos son un tipo especial de objeto)
+console.log(typeof function(){}); // "function"
+console.log(typeof Symbol("id")); // "symbol" (introducido en ES6)
+console.log(typeof BigInt(9007199254740991)); // "bigint" (introducido en ES2020)
+
+```
+<br>
 
 🎉 ¡Felicidades! Has completado esta lección con éxito. ${{\color{#ffcc66} ¡Gran\ trabajo!}}$
 <br>

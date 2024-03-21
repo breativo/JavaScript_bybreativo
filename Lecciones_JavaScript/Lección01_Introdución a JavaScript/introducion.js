@@ -1,3 +1,7 @@
+/*
+Lección 01_Introdución a JavaScript
+*/
+
 // Mensaje por consola
 console.log("¡Hola Mundo!");
 
