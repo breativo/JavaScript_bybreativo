@@ -164,7 +164,7 @@ console.log(typeof BigInt(9007199254740991)); // "bigint" (introducido en ES2020
 > [!NOTE] 
 >JavaScript by breativo está en constante evolución. Pronto se añadirán más lecciones y ejercicios prácticos para mejorar aún más tu experiencia de aprendizaje. Mantente atento a las actualizaciones y sigue mejorando tus habilidades.
 
-[Siguiente lección](URL_del_enlace) 
+[Siguiente lección]([URL_del_enlace](https://github.com/breativo/JavaScript_bybreativo/tree/main/Lecciones_JavaScript/Lecci%C3%B3n03_Trabajar%20con%20Strings)) 
 <br>
 <br>
 
