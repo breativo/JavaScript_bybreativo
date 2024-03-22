@@ -1,4 +1,4 @@
-# ${{\color{#ffcc66}Curso\ JavaScript\ by\ breativo:}}$
+# ${{\color{#ffcc66}Curso\ JavaScript\ by\ breativo}}$
 ### ${{\color{#ffcc66}Curso\ para\ aprender\ paso\ a\ paso\ JavaScript.}}$
 ### ${{\color{#ffcc66}Gratis\ y\ práctico.\ Desde\ 0.}}$
 
@@ -68,7 +68,8 @@ Permite mejorar tus habilidades con JavaScript a través de desafíos de código
 #### Puedes encontrar más cursos en mi perfil de GitHub.
 [![Web](https://img.shields.io/badge/GitHub-Breativo-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/breativo)
 
-<h1 style="color: #00A8E6;">breativo</h1>
+<image src="/img/logo.png" alt="breativo">
+
 <h3 style="color: #00A8E6;">Full Stack Developer iOS| Android y Web.</h3>
 
 <p style="font-size:16px;">
