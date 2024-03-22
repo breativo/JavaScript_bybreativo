@@ -1,6 +1,6 @@
 # ${{\color{#ffcc66}Curso\ JavaScript\ by\ breativo:}}$
 ### ${{\color{#ffcc66}Curso\ para\ aprender\ paso\ a\ paso\ JavaScript.}}$
-### ${{\color{#ffcc66}100\ \%\ Gratis\ y\ práctico.\ Desde\ 0.}}$
+### ${{\color{#ffcc66}Gratis\ y\ práctico.\ Desde\ 0.}}$
 
 
 ¡Lánzate al emocionante mundo del desarrollo web con el curso de JavaScript by breativo: Desde Cero! Si alguna vez has soñado con construir sitios web interactivos, animaciones impresionantes o aplicaciones web robustas, ¡este es tu momento!
