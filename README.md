@@ -70,7 +70,8 @@ Permite mejorar tus habilidades con JavaScript a través de desafíos de código
 
 <image src="/img/logo.png" alt="breativo" width="50%">
 
-<h3 style="color: #00A8E6;">Full Stack Developer iOS| Android y Web.</h3>
+### ${{\color{#00A8E6}Full\ Stack\ Developer\ iOS,\ Android\ y\ Web.}}$
+
 
 <p style="font-size:16px;">
 Puedes encontrarme en las siguientes plataformas.
@@ -93,7 +94,7 @@ Puedes encontrarme en las siguientes plataformas.
 [![Web](https://img.shields.io/badge/Web-breativo.com-1e8612?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://breativo.com)
 </br>
 
-# Algunos vídeos del canal de YouTube.
+## Algunos vídeos del canal de YouTube.
 
 ### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
