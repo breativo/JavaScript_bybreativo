@@ -68,7 +68,7 @@ Permite mejorar tus habilidades con JavaScript a través de desafíos de código
 #### Puedes encontrar más cursos en mi perfil de GitHub.
 [![Web](https://img.shields.io/badge/GitHub-Breativo-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/breativo)
 
-<image src="/img/logo.png" alt="breativo">
+<image src="/img/logo.png" alt="breativo" width="50">
 
 <h3 style="color: #00A8E6;">Full Stack Developer iOS| Android y Web.</h3>
 
