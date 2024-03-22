@@ -1,5 +1,5 @@
 /*
-Lección 01_Introdución a JavaScript
+Lección 01_Introducción a JavaScript
 */
 
 // Mensaje por consola
