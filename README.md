@@ -35,11 +35,14 @@ No pierdas esta oportunidad única de dominar JavaScript, el lenguaje de program
 | 01    |  [Introduducción a JavaScript](./Lecciones_javaScript/Lección01_Introdución%20a%20JavaScript/)   
 | 02    |  [Tipos de datos en JavaScript](./Lecciones_JavaScript/Lección02_Tipos%20de%20datos%20JavaScript/) 
 | 03    |  [Trabajar con Strings en JavaScript](./Lecciones_JavaScript/Lección03_Trabajar%20con%20Strings/) 
-| 04    |  [Trabajar con Números en JavaScript](./Lecciones_JavaScript/Lección04_Trabajar%20con%20números/)              
+| 04    |  [Trabajar con Números en JavaScript](./Lecciones_JavaScript/Lección04_Trabajar%20con%20números/)       
+| 05    | [Arreglos en JavaScript](./Lecciones_JavaScript/Lección05_Arreglos)    
+| 06    | [Sets y Maps en JavaScript](./Lecciones_JavaScript/Lecció06_Sets%y/Maps)
+| 07    | [Sentencias condicionales en JavaScript](./Lecciones_JavaScript/Lección07_Sentencias%condicionales)  
 # ${{\color{#ffcc66}Clases\ en\ video}}$
-| Número |                               Lección                                |   Fecha de Publicación |
-|--------|:--------------------------------------------------------------------:|:--------------------:|
-| 01     | [Introducción a JavaScript y tipos de datos](./Lecciones_javaScript/Lección01_Introducción%20a%20JavaScript/)   |     25-03-2024      |
+| Número |                               Lección                                |   Fecha de Publicación |  Lección o lecciones    |
+|--------|:--------------------------------------------------------------------:|:--------------------:|:--------------------:|
+| 01     | [Introducción a JavaScript y tipos de datos](./Lecciones_javaScript/Lección01_Introducción%20a%20JavaScript/)   |     ⌛ en breve      |  01 y 02|
 
 
 ## ${{\color{#ffcc66}Herramientas\ utilizadas\ en\ el\ curso.}}$

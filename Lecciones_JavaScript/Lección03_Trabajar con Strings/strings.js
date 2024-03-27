@@ -68,6 +68,7 @@ console.log(string.indexOf("mundo")); //  5
 
 // lastIndexOf
 console.log(string.lastIndexOf("o")); // 9
+console.log(string.lastIndexOf("o", 3)); //1
 
 // replace
 console.log(string.replace("Hola", "Adiós")); // Adiós mundo

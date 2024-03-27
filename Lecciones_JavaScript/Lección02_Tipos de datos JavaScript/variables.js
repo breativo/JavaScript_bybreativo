@@ -3,19 +3,19 @@ Lección 02_Variables en JavaScript
 */
 
 // Declaración de variables
-let name;
+let nombre;
 
 // Asignación de variables
-let lastName = `breativo`;
-console.log(lastName); // breativo
+let nombreCompleto = `breativo`;
+console.log(nombreCompleto); // breativo
 
 // Redeclaradas variables
-let course = `JavaScript`;
+let curso = `JavaScript`;
 // let course = `Python` no se permite la redeclaración de una variable
-course = `Python` ;// si se permite la reasignación de una variable (JavaScript -> Python)
+curso = `Python` ;// si se permite la reasignación de una variable (JavaScript -> Python)
 
 // Declaración de constantes
-const NAME = `breativo`;
+const NOMBRE = `breativo`;
 
 // Tipos de datos primitivos
 // Cadenas de texto
@@ -25,8 +25,8 @@ console.log(string); // breativo
 console.log(newString); // breativo
 
 // Números
-let year = 2024; 
-console.log(year) // 2024
+let anio = 2024; 
+console.log(anio) // 2024
 
 // Boolean
 let isJavaScript = true;  
@@ -43,18 +43,18 @@ console.log(nullString);// null
 
 // Datos de datos no primitivos
 // Object
-let person={
-    name : `breativo`,
-    age : 43,
+let persona={
+    nombre : `breativo`,
+    edad : 43,
     isJavaScript : true
 };
-console.log(person) // { name: 'breativo', age: 43, isJavaScript: true }
-console.log(person.name); // breativo
+console.log(persona) // { name: 'breativo', age: 43, isJavaScript: true }
+console.log(persona.nombre); // breativo
 
 // Array
-let skill=[`Java`, `JavaScript`, `Python`];
-console.log(skill[1]) // javaScript
-console.log(skill[2]) // Python
+let lenguajes=[`Java`, `JavaScript`, `Python`];
+console.log(lenguajes[1]) // javaScript
+console.log(lenguajes[2]) // Python
 
 // Function
 function sum (a, b){
@@ -64,8 +64,8 @@ console.log(sum(2,3))  // 5
 console.log(sum(12,30)) // 42
 
 // Date 
-let currentDate =new Date();
-console.log(currentDate) // 2024-03-21T17:51:57.094Z
+let diaSistema =new Date();
+console.log(diaSistema) // 2024-03-21T17:51:57.094Z
 
 // typeof
 console.log(typeof "Hola, mundo"); // "string"

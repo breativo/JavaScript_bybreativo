@@ -13,9 +13,9 @@ ${{\color{#ffcc66}Declaración\ de\ variables.}}$ La declaración de una variabl
 
 ```JavaScript
 
-var age;
-let name;
-const COURSE = `JavaScript`;
+var edad;
+let nombre;
+const CURSO = `JavaScript`;
 
 ```
 <br>
@@ -24,8 +24,8 @@ ${{\color{#ffcc66}Asignación\ de\ variables.}}$ La asignación de variables es 
 
 ```JavaScript
 
-age = 1;
-name = `breativo`;
+edad = 1;
+nombre = `breativo`;
 
 ```
 <br>
@@ -33,9 +33,9 @@ name = `breativo`;
 También puedes declarar y asignar una variable en la misma línea:
 ```JavaScript
 
-var age = 1;
-let name = `breativo`;
-const COURSE= `JavaScript`;
+var edad = 1;
+let nombre = `breativo`;
+const CURSO= `JavaScript`;
 
 ```
 <br>
@@ -50,11 +50,12 @@ En JavaScript, puedes ${{\color{#ffcc66}operar\ con\ varias\ variables.}}$ de la
 let x = 5;
 let y = 3;
 let sum = x + y; // suma será igual a 8
+console.log(sum)
 
-
-let name = `by breativo`;
-let course = `JavaScript`;
-let string = course + name;
+let nombre = `by breativo`;
+let curso = `JavaScript`;
+let string = curso + nombre;// JavaScript by breativo
+console.log(string)
 ```
 ```JavaScript
 // Respuesta
@@ -77,19 +78,19 @@ ${{\color{#ffcc66}Tipos\ de\ datos\ primitivos\ en\ JavaScript:}}$
 
 ```JavaScript
 // String
-let name =`breativo`;
+let nombre =`breativo`;
 
 // Number
-let year = 2024;
+let anio = 2024;
 
 // Boolean
 let isJavaScript = true;
 
 // Undefined
-let course;
+let curso;
 
 // Null
-let courses = null;
+let cursos = null;
 
 ```
 ```JavaScript
@@ -113,17 +114,17 @@ Los tipos de datos no primitivos en JavaScript son aquellos que no son primitivo
 
 ```JavaScript
 // Object
-let person={
-    name : `breativo`,
-    age : 43,
+let persona={
+    nombre : `breativo`,
+    edad : 43,
     isJavaScript : true
 };
 
 // Array
-let skill=[`Java`, `JavaScript`, `Python`];
+let lenguajes=[`Java`, `JavaScript`, `Python`];
 
 // Function
-function sum(a, b) {
+function suma (a, b) {
     return a + b;
 }
 
@@ -132,7 +133,7 @@ let string = function() {
 };
 
 // Date
-let currentDate = new Date();
+let diaSistema = new Date();
 
 ```
 <br>
