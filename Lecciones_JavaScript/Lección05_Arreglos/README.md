@@ -308,7 +308,7 @@ Estos son solo algunos ejemplos de los muchos métodos disponibles para trabajar
 > [!NOTE] 
 >JavaScript by breativo está en constante evolución. Pronto se añadirán más lecciones y ejercicios prácticos para mejorar aún más tu experiencia de aprendizaje. Mantente atento a las actualizaciones y sigue mejorando tus habilidades.
 
-[Siguiente lección](URL_del_enlace) 
+[Siguiente lección](https://github.com/breativo/JavaScript_bybreativo/tree/main/Lecciones_JavaScript/Lecci%C3%B3n06_Sets%20y%20Maps) 
 <br>
 <br>
 
